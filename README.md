@@ -41,5 +41,6 @@ This project takes the first letter of each word and sets it to uppercase.
 
 |Behavior|Input|Output|
 |--------|-----|------|
-
+|Make first letter of first uppercase|'beowulf'|'Beowulf'|
+|Make first letter of all words uppercase|'beowulf is fun'|'Beowulf Is Fun'|
 * End specifications
